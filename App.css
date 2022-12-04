@@ -1,0 +1,12 @@
+* {
+  background-color: rgb(238, 210, 159);
+  margin: auto;
+
+}
+
+.stat {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+}
